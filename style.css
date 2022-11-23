@@ -1,4 +1,4 @@
-correct,wrong{
+correct,wrong,kinda{
     font-size: 300%;
     letter-spacing: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -13,6 +13,14 @@ wrong{
     color: red;
 }
 
+kinda{
+    color: yellow;
+}
+
 #answers{
+    text-align: center;
+}
+
+#main{
     text-align: center;
 }
